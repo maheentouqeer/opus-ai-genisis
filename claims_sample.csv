@@ -1,0 +1,6 @@
+patient_id,provider,cpt_code,billed_amount,service_date,diagnosis_code,prior_auth,claim_id
+P12345,City Medical Center,99213,145.0,2025-01-12,J10.1,AUTH5678,CLM001
+P67890,Sunrise Clinic,93000,250.0,2025-02-03,I10,,CLM002
+P44556,Green Valley Hospital,70450,980.0,2025-01-28,S06.0X0A,AUTH9981,CLM003
+P99887,Lakeside Health,80050,320.0,2025-02-14,E11.9,,CLM004
+,Metro Clinic,99ABC,,2025-31-99,XYZ123,AUTH0000,CLM005
