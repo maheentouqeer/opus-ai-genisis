@@ -1,0 +1,6 @@
+{
+  "CPT_99213": { "covered": true, "requires_pre_auth": false },
+  "CPT_99214": { "covered": true, "requires_pre_auth": true },
+  "CPT_70450": { "covered": true, "requires_pre_auth": true },
+  "CPT_93000": { "covered": true, "requires_pre_auth": false }
+}
